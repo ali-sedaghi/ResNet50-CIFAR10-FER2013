@@ -1,5 +1,3 @@
-<a href="https://colab.research.google.com/github/nikomadol/ResNet50-on-CIFAR-10-and-FER-2013/blob/main/MyResNet50.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 ## Residual Networks
 
 ### Imports
